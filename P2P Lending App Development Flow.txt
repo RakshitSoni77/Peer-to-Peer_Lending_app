@@ -5,7 +5,7 @@ Short Development Flow for Blockchain-based Peer-to-Peer Lending App
    - Decide blockchain type: Ethereum, Polygon, or Solana (depending on speed, cost, and scalability).
 
 2. Design System Architecture
-   - Frontend: React.js / Next.js
+   - Frontend: React.js
    - Backend: Node.js / Express
    - Smart Contracts: Solidity (for Ethereum-compatible chains)
    - Database: IPFS (for decentralized storage) + MongoDB/PostgreSQL (for off-chain metadata)
