@@ -7,4 +7,10 @@
 - package.json file – Replace the `"name"` property value from `"Project-Title"` to your actual project title. <br/>
 *Example:* `"name": "crowdfunding-smartcontract"`
 
+## contract deployment:
+condract address : 0x65ce13ffab703f520f1ea1efcbcfe38c7a154bd4
+<img width="1918" height="838" alt="image" src="https://github.com/user-attachments/assets/d4a56501-3c26-4330-a861-0778f04dcd12" />
+
+
+
 
